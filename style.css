@@ -1,0 +1,15 @@
+.name{
+    font-family: sans-serif;
+    
+}
+.description{
+    font-family:fantasy;
+    
+}
+body{
+    background:linear-gradient(to bottom left, #E4EEEE, #759E9E)
+}
+ 
+ li .codar{
+    font-size: 1.5em;
+}
